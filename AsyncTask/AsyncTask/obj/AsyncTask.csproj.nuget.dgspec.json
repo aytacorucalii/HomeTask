@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\AsyncTask\\AsyncTask\\AsyncTask.csproj": {}
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\AsyncTask\\AsyncTask\\AsyncTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\AsyncTask\\AsyncTask\\AsyncTask.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\AsyncTask\\AsyncTask\\AsyncTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\AsyncTask\\AsyncTask\\AsyncTask.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\AsyncTask\\AsyncTask\\AsyncTask.csproj",
         "projectName": "AsyncTask",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\AsyncTask\\AsyncTask\\AsyncTask.csproj",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\AsyncTask\\AsyncTask\\AsyncTask.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\AsyncTask\\AsyncTask\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\AsyncTask\\AsyncTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

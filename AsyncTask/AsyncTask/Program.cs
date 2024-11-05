@@ -9,16 +9,17 @@ namespace AsyncTask
     {
         static void Main(string[] args)
         {
+            #region
             Stopwatch sw = Stopwatch.StartNew();
             List<string> urls = new List<string>()
-            {
-                "https://kontakt.az/telefoniya",
-                "https://www.soliton.az/search.php?q=telefon",
-                "https://irshad.az/mehsullar?q=telefon",
-                "https://irshad.az/mehsullar?q=telefon"
+                {
+                    "https://kontakt.az/telefoniya",
+                    "https://www.soliton.az/search.php?q=telefon",
+                    "https://irshad.az/mehsullar?q=telefon",
+                    "https://irshad.az/mehsullar?q=telefon"
 
-            };
-             RetrieveDataNonAsync(urls);
+                };
+            RetrieveDataNonAsync(urls);
             sw.Stop();
             Console.WriteLine(sw.ElapsedMilliseconds);
             sw.Restart();
@@ -45,7 +46,9 @@ namespace AsyncTask
                 links.Add(client.GetStringAsync(url));
                 await Task.WhenAll(links);
             }
-
+            #endregion
+            string path = "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\AsyncTask.sln";
+            Directory.CreateDirectory(path + "\\Models");
         }
     }
 }
