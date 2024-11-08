@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\Async Task part2\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\Async Task part2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41A0F7E3-3885-4A83-AA6A-966CFC7B1E10}|Async Task part2\\Async Task part2.csproj|c:\\users\\hp\\source\\repos\\async task part2\\async task part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41A0F7E3-3885-4A83-AA6A-966CFC7B1E10}|Async Task part2\\Async Task part2.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\async task part2\\async task part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41A0F7E3-3885-4A83-AA6A-966CFC7B1E10}|Async Task part2\\Async Task part2.csproj|solutionrelative:async task part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41A0F7E3-3885-4A83-AA6A-966CFC7B1E10}|Async Task part2\\Async Task part2.csproj|c:\\users\\hp\\source\\repos\\async task part2\\async task part2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41A0F7E3-3885-4A83-AA6A-966CFC7B1E10}|Async Task part2\\Async Task part2.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\async task part2\\async task part2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41A0F7E3-3885-4A83-AA6A-966CFC7B1E10}|Async Task part2\\Async Task part2.csproj|solutionrelative:async task part2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41A0F7E3-3885-4A83-AA6A-966CFC7B1E10}|Async Task part2\\Async Task part2.csproj|c:\\users\\hp\\source\\repos\\async task part2\\async task part2\\data\\jsondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{41A0F7E3-3885-4A83-AA6A-966CFC7B1E10}|Async Task part2\\Async Task part2.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\async task part2\\async task part2\\data\\jsondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{41A0F7E3-3885-4A83-AA6A-966CFC7B1E10}|Async Task part2\\Async Task part2.csproj|solutionrelative:async task part2\\data\\jsondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "jsonData.json",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Async Task part2\\Async Task part2\\Data\\jsonData.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\Async Task part2\\Async Task part2\\Data\\jsonData.json",
               "RelativeDocumentMoniker": "Async Task part2\\Data\\jsonData.json",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Async Task part2\\Async Task part2\\Data\\jsonData.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\Async Task part2\\Async Task part2\\Data\\jsonData.json",
               "RelativeToolTip": "Async Task part2\\Data\\jsonData.json",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAFoCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-05T20:42:44.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T20:42:44.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Async Task part2\\Async Task part2\\Models\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\Async Task part2\\Async Task part2\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Async Task part2\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Async Task part2\\Async Task part2\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\Async Task part2\\Async Task part2\\Models\\Person.cs",
               "RelativeToolTip": "Async Task part2\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:56:29.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T19:56:29.3Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Async Task part2\\Async Task part2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\Async Task part2\\Async Task part2\\Program.cs",
               "RelativeDocumentMoniker": "Async Task part2\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Async Task part2\\Async Task part2\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\Async Task part2\\Async Task part2\\Program.cs",
               "RelativeToolTip": "Async Task part2\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwB4AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvywAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T19:17:30.972Z",
               "EditorCaption": ""

@@ -27,3 +27,6 @@ C:\Users\Hp\OneDrive\Desktop\aytacorucaliyeva\AsyncTask\AsyncTask\obj\Debug\net8
 C:\Users\Hp\OneDrive\Desktop\aytacorucaliyeva\AsyncTask\AsyncTask\obj\Debug\net8.0\AsyncTask.pdb
 C:\Users\Hp\OneDrive\Desktop\aytacorucaliyeva\AsyncTask\AsyncTask\obj\Debug\net8.0\AsyncTask.genruntimeconfig.cache
 C:\Users\Hp\OneDrive\Desktop\aytacorucaliyeva\AsyncTask\AsyncTask\obj\Debug\net8.0\ref\AsyncTask.dll
+C:\Users\Hp\OneDrive\Desktop\aytacorucaliyeva\AsyncTask\AsyncTask\obj\Debug\net8.0\AsyncTask.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\aytacorucaliyeva\AsyncTask\AsyncTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hp\OneDrive\Desktop\aytacorucaliyeva\AsyncTask\AsyncTask\obj\Debug\net8.0\AsyncTask.csproj.Up2Date

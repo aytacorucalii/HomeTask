@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b2irZSu3rBk=",
+  "dgSpecHash": "50Noxi9J+dM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\AsyncTask\\AsyncTask\\AsyncTask.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
