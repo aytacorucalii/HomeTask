@@ -1,0 +1,10 @@
+﻿@using MVCHomeTask1.Models;
+@model Group;
+
+<h1>Group List</h1>
+@foreach (Group group in Model)
+
+{
+    <h3>@group.Name</h3>
+    <p>Id: @group.Id</p>
+}

@@ -1,0 +1,12 @@
+﻿@using MVCHomeTask1.Models;
+@model List<Student>;
+@{
+    Layout = "_Layout";
+}
+
+@foreach(Student student in Model)
+{
+    <h3>@student.Name @student.Surname</h3>
+    <p>Id: @student.Id</p>
+    <p>Group Id: @student.GroupId</p>
+}

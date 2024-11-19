@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\views\\home\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\views\\home\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\mvchometask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\mvchometask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\mvchometask1\\mvchometask1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D81EC98-4567-4323-989D-1CAD3BB90512}|MVCHomeTask1\\MVCHomeTask1.csproj|solutionrelative:mvchometask1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCHomeTask1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:29:32.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCHomeTask1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:22:07.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index3.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\Home\\Index3.cshtml",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Views\\Home\\Index3.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\Home\\Index3.cshtml",
+              "RelativeToolTip": "MVCHomeTask1\\Views\\Home\\Index3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:08:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "MVCHomeTask1\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:08:14.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCHomeTask1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T21:35:14.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Models\\Teacher.cs",
+              "RelativeToolTip": "MVCHomeTask1\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:10:32.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Models\\Group.cs",
+              "RelativeToolTip": "MVCHomeTask1\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:10:09.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Models\\Student.cs",
+              "RelativeToolTip": "MVCHomeTask1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:09:57.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCHomeTask1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:59:37.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Program.cs",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Program.cs",
+              "RelativeToolTip": "MVCHomeTask1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:57:24.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MVCHomeTask1.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\MVCHomeTask1.csproj",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj",
+              "RelativeToolTip": "MVCHomeTask1\\MVCHomeTask1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T21:33:20.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\appsettings.json",
+              "RelativeToolTip": "MVCHomeTask1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T20:30:20.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCHomeTask1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCHomeTask1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T20:30:25.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

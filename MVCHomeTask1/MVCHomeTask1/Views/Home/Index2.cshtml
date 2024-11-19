@@ -1,0 +1,9 @@
+﻿@using MVCHomeTask1.Models;
+@model Teacher;
+<h1>Teacher List</h1>
+@foreach (Teacher teacher in Model)
+{
+    <h3>@teacher.Name</h3>
+    <p>Id: @teacher.Id</p>
+    <p>Subject: @teacher.Subject</p>
+}
