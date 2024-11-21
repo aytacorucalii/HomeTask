@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj": {}
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj",
         "projectName": "MVCHomeTask1",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\MVCHomeTask1.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\MVCHomeTask1\\MVCHomeTask1\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\MVCHomeTask1\\MVCHomeTask1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
