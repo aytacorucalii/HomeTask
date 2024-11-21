@@ -1,5 +1,6 @@
 ﻿@using PurpleBuzzApp.Models;
-@model ICollection<Contact>;
+@using PurpleBuzzApp.ViewModels.ContactV;
+@model ContactVM;
 
 <!-- Start Banner Hero -->
 <section class="bg-light">
@@ -31,7 +32,23 @@
         nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
         in voluptate.
     </p>
-
+    @foreach (Contact item in Model.Contacts)
+    {
+        <div class="col-lg-4">
+            <div class="contact row mb-4">
+                <div class="col-lg-3 col-3">
+                    <div class="py-3 mb-2 text-center border rounded text-secondary">                    
+                        <i class="@item.IconUrl display-6"></i>
+                    </div>
+                </div>
+                <ul class="contact-info list-unstyled col-lg-9 col-9 light-300">
+                    <li class="h5 mb-0">@item.Title</li>
+                    <li class="text-muted">@item.Name</li>
+                    <li class="text-muted">@item.PhoneNumber</li>
+                </ul>
+            </div>
+        </div>
+    }
     <div class="row pb-4">
         <div class="col-lg-4">
 
@@ -44,32 +61,6 @@
                 <ul class="contact-info list-unstyled col-lg-9 col-9  light-300">
                     <li class="h5 mb-0">Media Contact</li>
                     <li class="text-muted">Mr. John Doe</li>
-                    <li class="text-muted">010-020-0340</li>
-                </ul>
-            </div>
-
-            <div class="contact row mb-4">
-                <div class="contact-icon col-lg-3 col-3">
-                    <div class="border py-3 mb-2 text-center border rounded text-secondary">
-                        <i class='bx bx-laptop display-6'></i>
-                    </div>
-                </div>
-                <ul class="contact-info list-unstyled col-lg-9 col-9 light-300">
-                    <li class="h5 mb-0">Technical Contact</li>
-                    <li class="text-muted">Mr. John Stiles</li>
-                    <li class="text-muted">010-020-0340</li>
-                </ul>
-            </div>
-
-            <div class="contact row mb-4">
-                <div class="contact-icon col-lg-3 col-3">
-                    <div class="border py-3 mb-2 text-center border rounded text-secondary">
-                        <i class='bx bx-money display-6'></i>
-                    </div>
-                </div>
-                <ul class="contact-info list-unstyled col-lg-9 col-9 light-300">
-                    <li class="h5 mb-0">Billing Contact</li>
-                    <li class="text-muted">Mr. Richard Miles</li>
                     <li class="text-muted">010-020-0340</li>
                 </ul>
             </div>

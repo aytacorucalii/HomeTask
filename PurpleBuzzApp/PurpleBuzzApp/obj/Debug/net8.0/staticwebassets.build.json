@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "czZV9X7t120a6w7S692JL3erAYMNexqZOPJ+o3xWQzw=",
+  "Hash": "kTFNqbgdwXysUe9bwEfO99g6fPaA0uNZ3tTDLh8s5YA=",
   "Source": "PurpleBuzzApp",
   "BasePath": "_content/PurpleBuzzApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PurpleBuzzApp\\wwwroot",
       "Source": "PurpleBuzzApp",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\bootstrap.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/css/bootstrap.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\boxicon.min.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\boxicon.min.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/css/boxicon.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\boxicon.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\custom.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\custom.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/css/custom.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\custom.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\templatemo.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\css\\templatemo.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/css/templatemo.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.eot",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/fonts/boxicons.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/fonts/boxicons.svg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.ttf",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.woff",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/fonts/boxicons.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\fonts\\boxicons.woff2",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\apple-icon.png",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\apple-icon.png",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/apple-icon.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-bg-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-bg-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/banner-bg-01.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-bg-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-bg-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/banner-bg-02.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-bg-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-bg-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/banner-bg-03.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-img-01.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-img-01.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/banner-img-01.svg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-img-01.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-img-02.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\banner-img-02.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/banner-img-02.svg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-img-02.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\favicon.ico",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\favicon.ico",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/favicon.ico",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-1.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-1.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/feature-work-1.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/feature-work-1-large.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-1-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-2.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-2.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/feature-work-2.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/feature-work-2-large.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-2-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-3.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-3.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/feature-work-3.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/feature-work-3-large.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-3-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-4.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-4.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/feature-work-4.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/feature-work-4-large.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-4-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/our-work-01.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/our-work-02.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/our-work-03.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/our-work-04.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/our-work-05.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\our-work-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/our-work-06.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\pricing.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\pricing.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/pricing.svg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\pricing.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/recent-work-01.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/recent-work-02.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/recent-work-03.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/recent-work-04.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/recent-work-05.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\recent-work-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/recent-work-06.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\related-post-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\related-post-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/related-post-01.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\related-post-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\related-post-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\related-post-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/related-post-02.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\related-post-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\related-post-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\related-post-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/related-post-03.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\related-post-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/services-01.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/services-02.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/services-03.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/services-04.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/services-05.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/services-06.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-07.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-07.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/services-07.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-07.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-08.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\services-08.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/services-08.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-08.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/team-01.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/team-02.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/team-03.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/team-04.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/team-05.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\team-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/team-06.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work.svg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-01.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-01-small.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-01-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-02.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-02-small.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-02-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-03.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-03-small.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-03-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-04.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-04-small.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-04-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-05.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-05-small.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-05-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-06.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/img/work-slide-06-small.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-06-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\fslightbox.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\fslightbox.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/js/fslightbox.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\fslightbox.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\isotope.pkgd.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\isotope.pkgd.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/js/isotope.pkgd.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\isotope.pkgd.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\jquery.min.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/js/jquery.min.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\templatemo.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\templatemo.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/js/templatemo.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\templatemo.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\templatemo.min.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\assets\\js\\templatemo.min.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "assets/js/templatemo.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\templatemo.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\bootstrap.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\boxicon.min.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\boxicon.min.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "css/boxicon.min.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\css\\boxicon.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\custom.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\custom.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "css/custom.css",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\templatemo.css",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\css\\templatemo.css",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "css/templatemo.css",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\css\\templatemo.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.eot",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.eot",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "fonts/boxicons.eot",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "fonts/boxicons.svg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.ttf",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.ttf",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.woff",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.woff",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "fonts/boxicons.woff",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.woff2",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\fonts\\boxicons.woff2",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\apple-icon.png",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\apple-icon.png",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/apple-icon.png",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\img\\apple-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-bg-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-bg-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/banner-bg-01.jpg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-bg-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-bg-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-bg-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/banner-bg-02.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-bg-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-bg-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-bg-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/banner-bg-03.jpg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-bg-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-img-01.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-img-01.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/banner-img-01.svg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-img-01.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-img-02.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\banner-img-02.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/banner-img-02.svg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-img-02.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\favicon.ico",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\favicon.ico",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/favicon.ico",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-1.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-1.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/feature-work-1.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-1-large.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-1-large.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/feature-work-1-large.jpg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-1-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-2.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-2.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/feature-work-2.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-2-large.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-2-large.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/feature-work-2-large.jpg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-2-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-3.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-3.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/feature-work-3.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-3-large.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-3-large.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/feature-work-3-large.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-3-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-4.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-4.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/feature-work-4.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-4-large.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\feature-work-4-large.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/feature-work-4-large.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-work-4-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/our-work-01.jpg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/our-work-02.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/our-work-03.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/our-work-04.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/our-work-05.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\our-work-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/our-work-06.jpg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\img\\our-work-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\pricing.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\pricing.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/pricing.svg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pricing.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/recent-work-01.jpg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/recent-work-02.jpg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/recent-work-03.jpg",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/recent-work-04.jpg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/recent-work-05.jpg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\recent-work-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/recent-work-06.jpg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\img\\recent-work-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\related-post-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\related-post-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/related-post-01.jpg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\img\\related-post-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\related-post-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\related-post-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/related-post-02.jpg",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\img\\related-post-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\related-post-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\related-post-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/related-post-03.jpg",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\related-post-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/services-01.jpg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/services-02.jpg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/services-03.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/services-04.jpg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/services-05.jpg",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/services-06.jpg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-07.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-07.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/services-07.jpg",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-07.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-08.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\services-08.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/services-08.jpg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\img\\services-08.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/team-01.jpg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/team-02.jpg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/team-03.jpg",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/team-04.jpg",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/team-05.jpg",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\team-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/team-06.jpg",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work.svg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work.svg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work.svg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-01.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-01.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-01.jpg",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-01-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-01-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-01-small.jpg",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-01-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-02.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-02.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-02.jpg",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-02-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-02-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-02-small.jpg",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-02-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-03.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-03.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-03.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-03-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-03-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-03-small.jpg",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-03-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-04.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-04.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-04.jpg",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-04-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-04-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-04-small.jpg",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-04-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-05.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-05.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-05.jpg",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-05-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-05-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-05-small.jpg",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-05-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-06.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-06.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-06.jpg",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-06-small.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\img\\work-slide-06-small.jpg",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "img/work-slide-06-small.jpg",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-slide-06-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\custom.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\fslightbox.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\fslightbox.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "js/fslightbox.js",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fslightbox.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\isotope.pkgd.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\isotope.pkgd.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "js/isotope.pkgd.js",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\js\\isotope.pkgd.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\jquery.min.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\templatemo.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\templatemo.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "js/templatemo.js",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\js\\templatemo.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\templatemo.min.js",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\js\\templatemo.min.js",
       "SourceId": "PurpleBuzzApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\wwwroot\\",
       "BasePath": "_content/PurpleBuzzApp",
       "RelativePath": "js/templatemo.min.js",
       "AssetKind": "All",
