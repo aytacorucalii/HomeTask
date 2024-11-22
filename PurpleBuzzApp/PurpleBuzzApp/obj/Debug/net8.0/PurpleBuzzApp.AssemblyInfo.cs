@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PurpleBuzzApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3145f81d29aed9e2c0a5df6d6821c7fbcc7dec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7bbb6d8a3260920a3e6a255fac4caba056a2ec7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PurpleBuzzApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PurpleBuzzApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

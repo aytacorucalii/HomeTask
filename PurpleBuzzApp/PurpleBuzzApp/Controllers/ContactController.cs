@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using PurpleBuzzApp.Contexts;
 using PurpleBuzzApp.Models;
 using PurpleBuzzApp.ViewModels.ContactV;
 
@@ -6,6 +7,11 @@ namespace PurpleBuzzApp.Controllers
 {
     public class ContactController : Controller
     {
+        PurpleBuzzDBContexts dbContexts;
+        public ContactController(PurpleBuzzDBContexts purpleBuzzDBContexts)
+        {
+            dbContexts = purpleBuzzDBContexts;
+        }
         public IActionResult Index()
         {
             Contact contact = new Contact()
@@ -38,6 +44,10 @@ namespace PurpleBuzzApp.Controllers
             {
                 Contacts = contacts,
             };
+            dbContexts.Add(contact2);
+            dbContexts.Add(contact3);
+            dbContexts.Add(contact);
+            dbContexts.SaveChanges();
             return View(vm);
         }
     }

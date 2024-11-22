@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\migrations\\20241121225345_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|solutionrelative:purplebuzzapp\\migrations\\20241121225345_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\models\\aboutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|solutionrelative:purplebuzzapp\\models\\aboutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|solutionrelative:purplebuzzapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\contexts\\purplebuzzdbcontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\helper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|solutionrelative:purplebuzzapp\\helper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|solutionrelative:purplebuzzapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|solutionrelative:purplebuzzapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|solutionrelative:purplebuzzapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\migrations\\20241121225345_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|solutionrelative:purplebuzzapp\\migrations\\20241121225345_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\models\\aboutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|solutionrelative:purplebuzzapp\\models\\aboutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB5481C2-2E62-41F7-A223-4AD6408D7CC0}|PurpleBuzzApp\\PurpleBuzzApp.csproj|c:\\users\\hp\\onedrive\\desktop\\aytacorucaliyeva\\purplebuzzapp\\purplebuzzapp\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +46,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzApp\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "PurpleBuzzApp\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:50:09.429Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PurpleBuzzApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\appsettings.json",
+              "RelativeToolTip": "PurpleBuzzApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T20:36:30.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Program.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Program.cs",
+              "RelativeToolTip": "PurpleBuzzApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:21:25.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Helper\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzApp\\Helper\\SqlHelper.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Helper\\SqlHelper.cs",
+              "RelativeToolTip": "PurpleBuzzApp\\Helper\\SqlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:48:31.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurpleBuzzDBContexts.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Contexts\\PurpleBuzzDBContexts.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzApp\\Contexts\\PurpleBuzzDBContexts.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Contexts\\PurpleBuzzDBContexts.cs",
+              "RelativeToolTip": "PurpleBuzzApp\\Contexts\\PurpleBuzzDBContexts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:44:52.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PurpleBuzzApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:02:53.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20241121225345_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Migrations\\20241121225345_Initial.cs",
               "RelativeDocumentMoniker": "PurpleBuzzApp\\Migrations\\20241121225345_Initial.cs",
@@ -42,38 +131,11 @@
               "RelativeToolTip": "PurpleBuzzApp\\Migrations\\20241121225345_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:53:46.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T22:53:46.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SqlHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Helper\\SqlHelper.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzApp\\Helper\\SqlHelper.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Helper\\SqlHelper.cs",
-              "RelativeToolTip": "PurpleBuzzApp\\Helper\\SqlHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:48:31.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PurpleBuzzDBContexts.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Contexts\\PurpleBuzzDBContexts.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzApp\\Contexts\\PurpleBuzzDBContexts.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Contexts\\PurpleBuzzDBContexts.cs",
-              "RelativeToolTip": "PurpleBuzzApp\\Contexts\\PurpleBuzzDBContexts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:44:52.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\ViewModels\\Home\\HomeVM.cs",
               "RelativeDocumentMoniker": "PurpleBuzzApp\\ViewModels\\Home\\HomeVM.cs",
@@ -81,12 +143,11 @@
               "RelativeToolTip": "PurpleBuzzApp\\ViewModels\\Home\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:14:55.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T22:14:55.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "AboutAs.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\PurpleBuzzApp\\PurpleBuzzApp\\Models\\AboutAs.cs",
               "RelativeDocumentMoniker": "PurpleBuzzApp\\Models\\AboutAs.cs",
@@ -94,8 +155,7 @@
               "RelativeToolTip": "PurpleBuzzApp\\Models\\AboutAs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:01:42.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T22:01:42.17Z"
             }
           ]
         }

@@ -7,10 +7,10 @@ namespace PurpleBuzzApp.Contexts
     public class PurpleBuzzDBContexts: DbContext
     {   public DbSet<AboutAs> AboutAs { get; set; }
         public DbSet<Contact> Contacts { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+
+        public PurpleBuzzDBContexts(DbContextOptions options):base(options)
         {
-            optionsBuilder.UseSqlServer(SqlHelper.GetConnectionString());
-            base.OnConfiguring(optionsBuilder);
+            
         }
     }
 }
