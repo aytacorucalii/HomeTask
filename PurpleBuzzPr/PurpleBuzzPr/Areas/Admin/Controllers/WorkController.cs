@@ -1,0 +1,49 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using PurpleBuzzPr.DAL;
+using PurpleBuzzPr.Models;
+
+namespace PurpleBuzzPr.Areas.Admin.Controllers;
+[Area("Admin")]
+public class WorkController : Controller
+{
+    private readonly AppDbContext _appDbContext;
+    public WorkController(AppDbContext dbContext)
+    {
+        _appDbContext = dbContext;
+    }
+    public async Task<IActionResult> IndexAsync()
+    {
+        IEnumerable<Work> works = await _appDbContext.Works.ToListAsync();
+        return View(works); 
+    }
+
+    public IActionResult Delete(int Id)
+    {
+        Work? deleted = _appDbContext.Works.Find(Id);
+        if (deleted == null) { return NotFound(); }
+        else
+        {
+            _appDbContext.Works.Remove(deleted);
+            _appDbContext.SaveChanges();
+        }
+        return RedirectToAction(nameof(Index));
+
+    }
+    public IActionResult CreateWork()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult CreateWork(Work work)
+    {
+        if (!ModelState.IsValid)
+        {
+            return BadRequest("Something went wrong");
+        }
+        _appDbContext.Works.Add(work);
+        _appDbContext.SaveChanges();
+        return RedirectToAction(nameof(Index));
+    }
+}
