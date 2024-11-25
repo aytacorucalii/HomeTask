@@ -10,5 +10,16 @@ namespace PurpleBuzzPr.DAL
         
         public DbSet<Work> Works { get; set; }
         public DbSet<Service> Services { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Work>()
+                .HasOne(e => e.Service)
+                .WithMany(e => e.Works)
+                .HasForeignKey(e => e.ServiceId)
+                .OnDelete(DeleteBehavior.Restrict);
+        }
+
     }
 }

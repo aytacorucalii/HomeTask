@@ -38,12 +38,37 @@ public class WorkController : Controller
     [HttpPost]
     public IActionResult CreateWork(Work work)
     {
-        if (!ModelState.IsValid)
-        {
-            return BadRequest("Something went wrong");
-        }
+        //if (!ModelState.IsValid)
+        //{
+        //    return BadRequest("Something went wrong");
+        //}
+
+        work.CreateAt = DateTime.Now;
         _appDbContext.Works.Add(work);
         _appDbContext.SaveChanges();
+        return RedirectToAction(nameof(Index));
+    }
+    public IActionResult Update(int? id)
+    {
+        Work? work = _appDbContext.Works.Find(id);
+
+        if (work is null)
+        {
+            return NotFound("No such service");
+        }
+
+        return View(work);
+    }
+    [HttpPost]
+    public IActionResult Update(Work work)
+    {
+        Work? updatedWork = _appDbContext.Works.Find(work.Id);
+
+        if (updatedWork is null)
+        {
+            return NotFound("No such service");
+        }
+        _appDbContext.Works.Update(updatedWork);
         return RedirectToAction(nameof(Index));
     }
 }
